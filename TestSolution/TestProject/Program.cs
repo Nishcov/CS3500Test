@@ -12,5 +12,15 @@ namespace TestProject
         {
             Console.WriteLine("Branch out!");
         }
+
+        static void a()
+        {
+
+        }
+
+        static void b()
+        {
+
+        }
     }
 }
