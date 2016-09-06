@@ -22,5 +22,10 @@ namespace TestProject
         {
 
         }
+
+        static void c()
+        {
+
+        }
     }
 }
